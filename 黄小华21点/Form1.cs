@@ -13,6 +13,7 @@ namespace 黄小华21点
 {
     public partial class Form1 : Form   //局部类型
     {
+        int ki;
         Tran tran = new Tran();
         public int a, b, i, j, m = 4, n = 0,h=0,t=0,p=0,x=0,y=0,z=0,w=0;
         public int[] ab = new int[20];
